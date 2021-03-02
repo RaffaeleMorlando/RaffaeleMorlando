@@ -1,9 +1,12 @@
-<h1 align="center">Hi there :wave: , I'm RaffaeleMorlando</h1>
+<h2 align="center">Hi there :wave: , I'm RaffaeleMorlando</h2>
 <h3 align="center">I'm a Junior Full Stack Web Developer from Naples :pizza: , Italy. </h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaffaeleMorlando&theme=radical&show_icons=true&locale=en&layout=compact" alt="BerviFix" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaffaeleMorlando&theme=radical&show_icons=true&locale=en&layout=compact" alt="RaffaeleMorlando" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=RaffaeleMorlando&theme=radical&show_icons=true&icon_color=CFF601" alt="RaffaeleMorlando" /></p>
 <h3 align="center">Languages & Tool</h3>
 <p align="center">
+
+<hr>
 
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
